@@ -2,6 +2,8 @@
 
 This app allows users to pick the amount of time to listen to and choose different ambient sounds. 
 
+Inspired by <a href="https://www.youtube.com/watch?v=oMBXdZzYqEk&t=2033s">Dev Ed</a>
+
 ## Screenshots
 
 <img src="https://i.pinimg.com/originals/77/a4/26/77a426decff7a0bb206fbf2969753cc1.png"> <br>
